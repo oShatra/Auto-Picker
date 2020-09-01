@@ -23,7 +23,7 @@ X: `*88888%`     !  888E  888E 9888  9888    8888      4888>      9888  9888
                          @%                                                   
                        :"                                                     
 """)
-print("Código feito por: Shatra#8274")
+print("Código feito por: Shatra#0147")
 
 # <-> Receber o evento MESSAGE;
 @client.event
