@@ -16,4 +16,4 @@ O código necessita do __Python3__ e de __2__ dependências, para facilitar a in
 # Observações:
 - O código foi feito com uma intenção educacional, todo e qualquer uso indevido é totalmente de resposabilidade do utilizador.
 - O projeto ainda está básico, quem tiver o interesse pode estar aprimorando, colocando mais funções, etc.
-- Agradeço o fornecimento de minha autoria(**Shatra#8274**) em projetos que utilizam como base a minha criação.
+- Agradeço o fornecimento de minha autoria(**Shatra#0147**) em projetos que utilizam como base a minha criação.
