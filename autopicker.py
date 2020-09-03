@@ -5,7 +5,7 @@ from os import system
 from datetime import datetime
 
 system("title Feito por Shatra#0147!")
-win32api.MessageBox(0, 'Feito por Shatra#0147!', 'Creditos:')
+win32api.MessageBox(0, 'Feito por Shatra#0147!', 'Créditos:')
 d1 = datetime.now()                       # <- Pegando informações de horário;
 potato = d1.strftime("%H:%M:%S-%d/%m/%Y") # <- Formatando em horas/minutos/segundos - dia/mês/ano
 client = discord.Client()                 # <- Criando o Client;
