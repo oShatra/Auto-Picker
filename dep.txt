@@ -1,3 +1,0 @@
-datetime
-discord
-win32api
